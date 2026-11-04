@@ -47,6 +47,13 @@ A prebuilt `RouteHound` binary is already included in this directory.
 
 ---
 
+## Burpsuite 
+
+```
+Target > Sitemap > Save items > Burpsuite.xml
+```
+
+
 ## Quick start
 
 ```bash
