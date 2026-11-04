@@ -3,7 +3,7 @@
 **Forced-browsing scanner for Burp Suite exports**
 
 Version: `1.0.0`
-Author: `NiTr0Rc`
+Author: `NiTr0Rc1`
 
 ---
 
